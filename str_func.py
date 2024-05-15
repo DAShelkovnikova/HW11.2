@@ -1,4 +1,7 @@
 def big_letter(word):
     return word.upper()
 
-"""Функция возвращает слово заглавными буквами"""
+
+def title_letter(string):
+    return string.title()
+"""функция, которая делает заглавными первые буквы каждого слова в строке"""
